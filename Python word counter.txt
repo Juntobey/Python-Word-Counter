@@ -1,0 +1,3 @@
+The fact that we can use an object by calling methods is the key to reusability because it 
+shields the internal workings of the object from changes in the outside system, and it keeps 
+the system from being affected when changes are made to an object.
